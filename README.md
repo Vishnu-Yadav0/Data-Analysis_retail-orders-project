@@ -36,3 +36,14 @@ This project focuses on end-to-end data processing and analysis of a retail orde
 
 # 📌 Outcome
  - This project demonstrates the ability to work across the entire data pipeline — from ingestion and transformation to storage and insight generation — and builds a strong foundation for a Database Analyst or Data Engineer role.
+
+### 📈 Profit Growth by Sub-Category (2023 vs 2022)
+
+![Profit Growth Chart](Profit_growth.png)
+
+### Top 10 Revenue-Generating Products
+![Top 10 Revenue-Generating Products](top-10-revenue-generating-products.png)
+
+### Month-over-Month Sales Comparison (2022 vs 2023)
+![Month-over-Month Sales Comparison (2022 vs 2023)](month-over-month-sales-comparision.png)
+
